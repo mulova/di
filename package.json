@@ -1,0 +1,12 @@
+
+{
+	"name": "com.mulova.di",
+	"displayName": "com.mulova.di",
+	"version": "0.0.1",
+	"unity": "2018.1",
+	"description": "Dependency Injection",
+	"keywords": ["mulova", "di"],
+	"category": "mulova",
+	"dependencies": {
+	}
+}
