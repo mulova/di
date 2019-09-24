@@ -1,9 +1,9 @@
 ﻿using System;
-using UnityEngine;
 using System.Collections.Generic;
 using mulova.commons;
+using UnityEngine;
 
-namespace comunity
+namespace mulova.di
 {
     [Serializable]
     public class DepData

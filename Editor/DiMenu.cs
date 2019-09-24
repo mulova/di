@@ -1,12 +1,12 @@
 ﻿using System.Collections.Generic;
-using UnityEngine;
-using UnityEditor;
-using mulova.commons;
-using UnityEditor.SceneManagement;
 using System.Text.Ex;
-using mulova.comunity;
+using mulova.commons;
+using mulova.unicore;
+using UnityEditor;
+using UnityEditor.SceneManagement;
+using UnityEngine;
 
-namespace comunity
+namespace mulova.di
 {
     [InitializeOnLoad]
     public class DiMenu : UnityEditor.AssetModificationProcessor

@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using mulova.comunity;
+using mulova.unicore;
 using UnityEngine;
 
-namespace comunity
+namespace mulova.di
 {
     [ExecuteInEditMode]
     public class DiService : MonoBehaviour
