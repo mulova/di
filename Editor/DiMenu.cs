@@ -5,6 +5,7 @@ using mulova.unicore;
 using UnityEditor;
 using UnityEditor.SceneManagement;
 using UnityEngine;
+using System.Collections.Generic.Ex;
 
 namespace mulova.di
 {
@@ -98,7 +99,7 @@ namespace mulova.di
             {
                 EditorUtil.SetDirty(m);
             }
-            if (changeList.IsNotEmpty())
+            if (!changeList.IsEmpty())
             {
                 EditorUtil.SetDirty(di);
             }
